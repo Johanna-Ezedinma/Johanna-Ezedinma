@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I enjoy working at the intersection of data and delivery. I turn raw information into clear insights and I support teams by managing the structure that brings those insights to life. I enjoy analyzing trends, building dashboards, and helping stakeholders understand what the numbers mean for their decisions.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
