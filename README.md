@@ -12,12 +12,13 @@
   <a href="mailto:johannaezedinma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I enjoy working at the intersection of data and delivery. I turn raw information into clear insights and I support teams by managing the structure that brings those insights to life. I enjoy analyzing trends, building dashboards, and helping stakeholders understand what the numbers mean for their decisions.
+##  About Me 
+I am a data analyst with a background that blends the precision of Biochemistry with the strategic oversight of Project Management.
+Studying molecular systems has taught me the importance of a clean data and the impact of small variables on large outcomes.  Transforming messy datasets into clear narratives that solve problems and predict future outcomes is one of my greatest joys.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+While I enjoy analyzing trends and helping stakeholders understand what the numbers mean for their decision, I am currently expanding my horizons into the world of data science and machine learning through the She Code Africa Data Science Scholarship.
 
-When I'm not working with data, I enjoy working out in the gym, cycling and taking walks in parks. I love the "aha!" moment when data reveals something new and useful.
+When I am not working with data, you will find me at the gym, cycling or walking in parks as i find that moving away from the screen often sparks my clearest thinking.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://Johanna-Ezedinma.github.io/)
