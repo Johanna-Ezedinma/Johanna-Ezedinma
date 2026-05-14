@@ -16,7 +16,7 @@
 I am a data analyst with a background that blends the precision of Biochemistry with the strategic oversight of Project Management.
 Studying molecular systems has taught me the importance of a clean data and the impact of small variables on large outcomes.  Transforming messy datasets into clear narratives that solve problems and predict future outcomes is one of my greatest joys.
 
-While I enjoy analyzing trends and helping stakeholders understand what the numbers mean for their decision, I am currently expanding my horizons into the world of data science and machine learning through the She Code Africa Data Science Scholarship.
+While I enjoy analyzing trends and helping stakeholders understand what the numbers mean for their decision, I am currently expanding my horizons into the world of data science and machine learning through the She Code Africa Data Science Scholarship amd I love every bit of my new discoveries.
 
 When I am not working with data, you will find me at the gym, cycling or walking in parks as i find that moving away from the screen often sparks my clearest thinking.
 
