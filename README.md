@@ -13,12 +13,23 @@
 </p>
 
 ##  About Me 
-I am a data analyst with a background that blends the precision of Biochemistry with the strategic oversight of Project Management.
-Studying molecular systems has taught me the importance of a clean data and the impact of small variables on large outcomes.  Transforming messy datasets into clear narratives that solve problems and predict future outcomes is one of my greatest joys.
 
-While I enjoy analyzing trends and helping stakeholders understand what the numbers mean for their decision, I am currently expanding my horizons into the world of data science and machine learning through the She Code Africa Data Science Scholarship amd I love every bit of my new discoveries.
+​I bridge the gap between complex data systems and strategic business decisions. 
+With a foundation in Biochemistry and Project Management, I bring a unique mix of scientific rigor and operational execution to data science.
+​
 
-When I am not working with data, you will find me at the gym, cycling or walking in parks as i find that moving away from the screen often sparks my clearest thinking.
+What I do:
+
+
+Data Analytics: Uncovering trends, tracking operational metrics, and helping stakeholders understand the story behind the numbers.
+
+​Data Science & ML: Building predictive models and technical solutions to tackle real world business bottlenecks.
+
+​I am actively building out my project portfolio and open to new opportunities in Data Analyst, Data Scientist, or Business Analytics roles. 
+
+Beyond the Data
+
+When I’m not writing code or engineering features, you’ll find me hitting the gym, cycling, taking a walk and visiting new places. Stepping away from the screen is usually where my clearest thinking happens.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://Johanna-Ezedinma.github.io/)
