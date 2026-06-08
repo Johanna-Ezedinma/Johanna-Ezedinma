@@ -5,7 +5,7 @@
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
 <p align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Business+Analyst+%7C+Data+Scientist;Power+BI+%7C+Excel+%7C+Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+%26+ML+Models+into+Actionable+Insights)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Business+Analyst+%7C+Data+Scientist;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+%26+ML+Models+into+Actionable+Insights)
 </p>
 </div>
 
@@ -17,25 +17,25 @@
   <a href="mailto:johannaezedinma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-### 👩‍💻 About Me 
+###  About Me 
 
-I bridge the gap between complex data systems and strategic business decisions. 💡
-With a strong foundation in Biochemistry and Project Management, I bring a unique mix of scientific rigor and operational execution to data science.📊
+I work to bridge the gap between complex data systems and strategic business decisions. 
+With a starting foundation in Biochemistry, and a strong foundation in Project Management, I bring a unique mix of scientific rigor and operational execution to data science.
 
 ---
 
-### 🛠️ What I Do
+###  What I Do
 
 *   **📈 Data Analytics:** Uncovering hidden trends, tracking operational metrics, and helping stakeholders easily understand the story behind the numbers.
-*   **🤖 Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
+*   ** Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
 
-🚀 I am actively building out my project portfolio and open to new opportunities in **Data Analyst**, **Data Scientist**, or **Business Analytics** roles. 🌟
+ I am actively building out my project portfolio and open to new opportunities in **Data Analyst**, **Data Scientist**, or **Business Analytics** roles. 
 
 ---
 
-### 🌿 Beyond the Data
+### Beyond the Data
 
-When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places ✈️. Stepping away from the screen is usually where my clearest thinking happens. ✨
+When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places . Stepping away from the screen is usually where my clearest thinking happens. 
 
 ---
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -55,7 +55,7 @@ When I’m not writing code or engineering features, you’ll find me hitting th
 --
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-### 🛠️ Technical Skillset
+###  Technical Skillset
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
