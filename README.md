@@ -27,7 +27,7 @@ With a starting foundation in Biochemistry, and a strong foundation in Project M
 ###  What I Do
 
 *   **📈 Data Analytics:** Uncovering hidden trends, tracking operational metrics, and helping stakeholders easily understand the story behind the numbers.
-*   ** Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
+*   **Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
 
  I am actively building out my project portfolio and open to new opportunities in **Data Analyst**, **Data Scientist**, or **Business Analytics** roles. 
 
