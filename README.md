@@ -12,27 +12,25 @@
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/johanna-ezedinma/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "https://medium.com/@johannaezedinma"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="mailto:johannaezedinma@gmail.com"><img src="https://img.shields.io/badge/Email-12100E?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+
+
+With a starting foundation in Biochemistry, and a strong foundation in Project Management, I work to bridge the gap between complex data systems and strategic business decisions. I bring a unique mix of scientific rigor and operational execution to data science.  I am open to new opportunities in **Data Analystics**, **Data Science**, **Business Analytics**  
 </p>
-
-###  About Me 
-
-I work to bridge the gap between complex data systems and strategic business decisions. 
-With a starting foundation in Biochemistry, and a strong foundation in Project Management, I bring a unique mix of scientific rigor and operational execution to data science.
 
 ---
 
 ###  What I Do
 
-*   **📈 Data Analytics:** Uncovering hidden trends, tracking operational metrics, and helping stakeholders easily understand the story behind the numbers.
+*   **Data Analytics:** Uncovering hidden trends, tracking operational metrics, and helping stakeholders easily understand the story behind the numbers.
 *   **Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
 
- I am actively building out my project portfolio and open to new opportunities in **Data Analyst**, **Data Scientist**, or **Business Analytics** roles. 
+
 
 ---
 
@@ -41,7 +39,7 @@ With a starting foundation in Biochemistry, and a strong foundation in Project M
 When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places . Stepping away from the screen is usually where my clearest thinking happens. 
 
 ---
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://Johanna-Ezedinma.github.io/)
       
 <!--## 🔭 What I'm Currently Working On 
@@ -58,11 +56,11 @@ When I’m not writing code or engineering features, you’ll find me hitting th
 --
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-###  Technical Skillset
+<!-- ###  Technical Skillset
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
