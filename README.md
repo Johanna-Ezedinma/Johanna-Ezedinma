@@ -20,23 +20,24 @@
 
 
 
-With a starting foundation in Biochemistry, and a strong foundation in Project Management, I work to bridge the gap between complex data systems and strategic business decisions. I bring a unique mix of scientific rigor and operational execution to data science.  I am open to new opportunities in **Data Analystics**, **Data Science**, **Business Analytics**  
+I enjoy working at the intersection of analytics and machine learning; transforming raw data into actionable insights and predictive solutions.
+
+My background spans data analysis, business intelligence, and machine learning. 
+
+My core toolkit includes:
+Python, SQL, Power BI, Excel, Machine Learning, Data Cleaning & Data Visualization
+
+Particularly interested in predictive analytics, data-driven decision making, and applying machine learning techniques to solve real world business problems.  
+
+Open to new opportunities in **Data Analystics**, **Data Science**, **Business Analytics**  
 </p>
-
----
-
-###  What I Do
-
-*   **Data Analytics:** Uncovering hidden trends, tracking operational metrics, and helping stakeholders easily understand the story behind the numbers.
-*   **Data Science & ML:** Building predictive models and technical solutions to tackle real-world business bottlenecks.
-
 
 
 ---
 
 ### Beyond the Data
 
-When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places . Stepping away from the screen is usually where my clearest thinking happens. 
+When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places. Stepping away from the screen is usually where my clearest thinking happens. 
 
 ---
 
