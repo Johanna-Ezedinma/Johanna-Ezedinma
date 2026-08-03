@@ -29,7 +29,7 @@ Python, SQL, Power BI, Excel, Machine Learning, Data Cleaning & Data Visualizati
 
 Particularly interested in predictive analytics, data-driven decision making, and applying machine learning techniques to solve real world business problems.  
 
-Open to new opportunities in **Data Analystics**, **Data Science**, **Business Analytics**  
+Open to new opportunities in **Data Analytics**, **Data Science**, **Business Analytics**  
 </p>
 
 
