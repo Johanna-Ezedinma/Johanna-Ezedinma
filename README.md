@@ -35,12 +35,6 @@ Open to new opportunities in **Data Analytics**, **Data Science**, **Business An
 
 ---
 
-### Beyond the Data
-
-When I’m not writing code or engineering features, you’ll find me hitting the gym 🏋️‍♀️, cycling 🚴‍♀️, taking a walk 🚶‍♀️, or visiting new places. Stepping away from the screen is usually where my clearest thinking happens. 
-
----
-
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://Johanna-Ezedinma.github.io/)
       
 <!--## 🔭 What I'm Currently Working On 
