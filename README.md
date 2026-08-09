@@ -24,10 +24,9 @@ I enjoy working at the intersection of analytics and machine learning; transform
 
 My background spans data analysis, business intelligence, and machine learning. 
 
-My core toolkit includes:
+Core toolkit:
 Python, SQL, Power BI, Excel, Machine Learning, Data Cleaning & Data Visualization
 
-Particularly interested in predictive analytics, data-driven decision making, and applying machine learning techniques to solve real world business problems.  
 
 Open to new opportunities in **Data Analytics**, **Data Science**, **Business Analytics**  
 </p>
