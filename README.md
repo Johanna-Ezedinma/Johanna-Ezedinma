@@ -5,7 +5,7 @@
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
 <p align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Business+Analyst+%7C+Data+Scientist;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+%26+ML+Models+into+Actionable+Insights)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Business+Intelligence+Analyst;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+%26+ML+Models+into+Actionable+Insights)
 </p>
 </div>
 
