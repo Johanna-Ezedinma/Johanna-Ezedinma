@@ -18,17 +18,13 @@
   <a href="mailto:johannaezedinma@gmail.com"><img src="https://img.shields.io/badge/Email-12100E?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
-
-I enjoy working at the intersection of analytics and machine learning; transforming raw data into actionable insights and predictive solutions.
-
-My background spans data analysis, business intelligence, and machine learning. 
-
-Core toolkit:
-Python, SQL, Power BI, Excel, Machine Learning, Data Cleaning & Data Visualization
-
-
-Open to new opportunities in **Data Analytics**, **Data Science**, **Business Analytics**  
+I enjoy working at the intersection of data analytics, business performance, and machine learning.   
+Turning raw and messy data into clear insights, reliable reporting, and predictive solutions that support better decisions.
+I investigate business performance, transaction, customer, and operational problems; validate the underlying data; identify trends, anomalies, and performance gaps; and translate findings into actionable recommendations and decision-ready dashboards.
+     
+My toolkit includes SQL, Python, Power BI, Excel, and machine learning where prediction adds meaningful value.
+    
+I’m particularly interested in problems where understanding the business context is just as important as the technical analysis.
 </p>
 
 
