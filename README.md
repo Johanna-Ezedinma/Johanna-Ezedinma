@@ -1,4 +1,4 @@
-## Hello, I am Johanna 😊 
+## Hello, I am Johanna 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -12,11 +12,11 @@
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
-<p align="left">
+<!--<p align="left">
   <a href="https://www.linkedin.com/in/johanna-ezedinma/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href= "https://medium.com/@johannaezedinma"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ <!-- <a href= "https://medium.com/@johannaezedinma"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="mailto:johannaezedinma@gmail.com"><img src="https://img.shields.io/badge/Email-12100E?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+</p> -->
 
 I enjoy working at the intersection of data analytics, business performance, and machine learning.   
 Turning raw and messy data into clear insights, reliable reporting, and predictive solutions that support better decisions.
